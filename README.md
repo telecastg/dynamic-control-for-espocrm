@@ -1,0 +1,1 @@
+# dynamic-control-for-espocrm
